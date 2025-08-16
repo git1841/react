@@ -12,7 +12,7 @@ const products = Array.from({ length: 50 }, (_, i) => ({
     title: `Produit ${i + 1}`,
     description: "Description détaillée de ce produit. Haute qualité et très demandé.",
     price: Math.floor(Math.random() * 100000) + 10000,
-    image: `/media/${i + 1}.jpeg?text=Produit+${i + 1}`,
+    image: `/media/a.jpeg?text=Produit+${i + 1}`,
     likes: Math.floor(Math.random() * 100),
     comments: Math.floor(Math.random() * 50),
     shares: Math.floor(Math.random() * 20),
