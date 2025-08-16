@@ -1,0 +1,23 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.navbar-primary {
+  background-color: #28a745;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.btn-success {
+  background-color: #28a745;
+}
+
+.btn-success:hover {
+  background-color: #218838;
+}
+
+.footer {
+  background-color: #343a40;
+}
